@@ -1,3 +1,6 @@
+Game tic-tac-toe (игра "крестики нолики")
+Сделана с помощью Vite, React, TailwindCss
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
